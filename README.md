@@ -10,8 +10,10 @@ o	Chrome, Windows 10
 •	A test will be retried once if it fails
 LambdaTest build - 'Certification Build - Final'
 Test - IDS
-Windows 10 - Chrome Test Scenario 1 - Message Check - simpleForm.test.ts OSTJU-LPMNO-68YLX-XBCYM
-Test Scenario 2 - Sliders - sliders.test.ts NQ0AB-BIUGD-HFQEE-XUHHV
+Windows 10 - Chrome Test 
+Test Scenario 1 - Message Check - simpleForm.test.ts JNIXH-MQ1VW-QJSND-WYA2J
+Test Scenario 2 - Sliders - sliders.test.ts STMIU-N6EOX-82BDJ-C4ZKG
 Test Scenario 3 - Error message - inputForm.test.ts VURBM-VCAEH-GLUYP-TYWPY
 Test Scenario 3 - Success message - inputForm.test.ts MC57Q-KIKC7-ZFDEJ-6WSPM
+
 
