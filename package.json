@@ -1,0 +1,21 @@
+{
+  "name": "playwrightcertification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "headless": "npx playwright test",
+    "headed": "npx playwright test --headed",
+    "debug": "npx playwright test --debug",
+    "report": "npx playwright show-report",
+    "ui": "npx playwright test --ui",
+    "setup": "npm install && npm i -D @playwright/test && npx playwright install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.5"
+  }
+}
