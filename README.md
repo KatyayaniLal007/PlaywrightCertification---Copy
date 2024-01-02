@@ -2,7 +2,7 @@
 
 Execution Steps
 - Enter the gitpod link (with the github repo) as a url in a browser, to initiate the environment
-gitpod.io/#https://github.com/philInsight/PlaywrightCertification
+(https://katyayanila-playwrightc-w1rjz2jqgmn.ws-us107.gitpod.io/)
 - User may be requested to create a new workspace in 'Katyayani's Org' organization. Click continue.
 - The necessary dependencies will be installed as per the gitpod yml script (npm, playwright)
 - After installation, the execution of tests will also start automatically (npx playwright test)
